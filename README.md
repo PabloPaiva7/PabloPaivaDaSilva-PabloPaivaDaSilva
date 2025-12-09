@@ -7,31 +7,51 @@
 
 ## 🎯 Meu Foco e Habilidades Chave
 
-[cite_start]Como Cientista de Dados Júnior [cite: 35][cite_start], atuo na prática e incessante busca para **melhorar a tomada de decisão**  através de:
+Como Cientista de Dados Júnior, atuo na prática e incessante busca para **melhorar a tomada de decisão** através de:
 
-* [cite_start]**Modelagem Preditiva:** Desenvolvimento e aplicação de modelos de **MACHINE LEARNING**.
-* [cite_start]**Dashboards e Visualização:** Criação de **DASHBOARD-PAINEL**  [cite_start]e automações  para insights rápidos.
-* [cite_start]**Engenharia de Prompt/GenAI:** Utilização de ferramentas como **LANGCHAIN**  para construir aplicações inteligentes.
-* [cite_start]**Análise de Dados:** Manipulação e limpeza de dados utilizando Python em **NOTEBOOKS COLAB**[cite: 15, 16].
+* **Modelagem Preditiva:** Desenvolvimento e aplicação de modelos de **MACHINE LEARNING**.
+* **Dashboards e Visualização:** Criação de **DASHBOARD-PAINEL** e automações para insights rápidos.
+* **Engenharia de Prompt/GenAI:** Utilização de ferramentas como **LANGCHAIN** para construir aplicações inteligentes.
+* **Análise de Dados:** Manipulação e limpeza de dados utilizando Python em **NOTEBOOKS COLAB**.
+
+## 🛠️ Tecnologias e Ferramentas Chave
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/Plotly-27335F?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI Badge"/>
+</p>
 
 ## 📊 Principais Projetos em Destaque
 
-Confira os projetos que demonstram minha capacidade de gerar impacto:
+Confira os repositórios que demonstram minha capacidade de gerar impacto:
 
-1.  [cite_start]**[Nome do Repositório ML/NLP]**: Aplicações práticas de **MACHINE LEARNING**  [cite_start]e **LANGCHAIN**.
-2.  [cite_start]**[Nome do Repositório de Dashboards]**: Painéis de gestão (**DASHBOARD-PAINEL** ) focados em indicadores de negócio.
-3.  [cite_start]**[Nome do Repositório de Negócios]**: Simulação ou análise de dados em contextos como **CRM**  [cite_start]e **WMS** [cite: 41] (Gestão de Estoque).
+1.  **ML & GenAI**: Aplicações práticas de **MACHINE LEARNING** e orquestração de LLMs com **LANGCHAIN**.
+2.  **Dashboards**: Implementação de Painéis de gestão (**DASHBOARD-PAINEL**) focados em indicadores de negócio.
+3.  **Gestão de Negócios**: Simulação ou análise de dados em contextos como **CRM** e **WMS** (Gestão de Estoque).
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloPaiva7&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPaiva7&layout=compact&langs_count=6&theme=dark" alt="Linguagens Mais Usadas"/>
+</p>
 
 ## 🔗 Conecte-se Comigo
 
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [Link para o seu perfil do LinkedIn] |
-| **Medium/Blog** | [cite_start][//metamrom/@pablopae] [cite: 38] |
-| **E-mail** | pablo.paiva.da.silva@exemplo.com |
-
----
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=vue-dark" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=vue-dark" alt="Linguagens mais usadas" />
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="YOUR_MEDIUM_URL" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="pablo.paiva.da.silva@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </p>
